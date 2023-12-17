@@ -1,0 +1,6 @@
+deps/*.d
+objs/*.o
+libcosc562_util.a
+.vscode/*
+test.o
+test

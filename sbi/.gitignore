@@ -1,0 +1,3 @@
+sbi.elf
+deps/*.d
+objs/*.o
